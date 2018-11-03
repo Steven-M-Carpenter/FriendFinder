@@ -1,0 +1,14 @@
+.radio {
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.radioLabels {
+    margin-left: 35px;
+    padding-left: 15px;
+}
+
+.modal-title {
+    background-color: red;
+    color: white;
+}
